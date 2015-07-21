@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.gpstracker.GpsMain" >
+
+    <item
+        android:id="@+id/action_option"
+        android:orderInCategory="100"
+        android:title="@string/action_option"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_imfo"
+        android:orderInCategory="100"
+        android:title="@string/action_imfo"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GPSTracker.iml" filepath="$PROJECT_DIR$/GPSTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GPSTracker/GPSTracker-GPSTracker.iml" filepath="$PROJECT_DIR$/GPSTracker/GPSTracker-GPSTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appcompat_v7_3/appcompat_v7_3.iml" filepath="$PROJECT_DIR$/appcompat_v7_3/appcompat_v7_3.iml" />
+    </modules>
+  </component>
+</project>
+

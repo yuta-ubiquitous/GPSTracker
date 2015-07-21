@@ -1,0 +1,8 @@
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\classes\debug
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\classes-1e64d6df5db2a1d2df26601b12e6a67623e6c171.jar
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-254a347f31c8a08c24680ba3d09b494ac0e031f6.jar
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-82e87cb50d5ea8235b7b6da6b2fb2f7e1db39c06.jar
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-60622ca181eef04811bbb2132909da8ad97e6b63.jar
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-351f38906b4f0fc6ea89d5a796f3ce1f8606da88.jar
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v4-26cf3275de329a186cdcc103975a00011a34923f.jar
+C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\classes-b10a461cf18460a7b9ddc1de6a02490fb9423a52.jar

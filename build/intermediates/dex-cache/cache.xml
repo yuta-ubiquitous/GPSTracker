@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-83f73dda0d364465ca550abb5a0904a46261f08c.jar" />
+    </item>
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="21297ae2bf22a0ce81c9b59992cf0693eec45d5b">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-1923e416ef3c474855096df0c6f8f21e3a7961b8.jar" />
+    </item>
+    <item
+        jar="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v4-26cf3275de329a186cdcc103975a00011a34923f.jar" />
+    </item>
+    <item
+        jar="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6c07b32b71aedae69a742c72682719beca77fd86">
+        <dex dex="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\classes-1e64d6df5db2a1d2df26601b12e6a67623e6c171.jar" />
+    </item>
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v4-b383ca0320bf07cc543b26db58861ed397525ec1.jar" />
+    </item>
+    <item
+        jar="E:\ProgramFiles\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-254a347f31c8a08c24680ba3d09b494ac0e031f6.jar" />
+    </item>
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-83f73dda0d364465ca550abb5a0904a46261f08c.jar" />
+    </item>
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v4-b383ca0320bf07cc543b26db58861ed397525ec1.jar" />
+    </item>
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="967d7450789788665edae22a847dcb5bf5cbe096">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\classes-3a540a51bd6132e6eb4f663dce485544fa68665d.jar" />
+    </item>
+    <item
+        jar="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\classes-b10a461cf18460a7b9ddc1de6a02490fb9423a52.jar" />
+    </item>
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="649b01af8aa93f0371ca8b779408b1fb172a0be4">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\classes-3a540a51bd6132e6eb4f663dce485544fa68665d.jar" />
+    </item>
+    <item
+        jar="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-60622ca181eef04811bbb2132909da8ad97e6b63.jar" />
+    </item>
+    <item
+        jar="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="21297ae2bf22a0ce81c9b59992cf0693eec45d5b">
+        <dex dex="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-351f38906b4f0fc6ea89d5a796f3ce1f8606da88.jar" />
+    </item>
+    <item
+        jar="C:\Android\GPSTracker\GPSTracker\build\intermediates\exploded-aar\GPSTracker\appcompat_v7_3\unspecified\libs\android-support-v7-appcompat.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="21297ae2bf22a0ce81c9b59992cf0693eec45d5b">
+        <dex dex="C:\Android\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-1923e416ef3c474855096df0c6f8f21e3a7961b8.jar" />
+    </item>
+    <item
+        jar="C:\GitHub\GPSTracker\GPSTracker\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\GitHub\GPSTracker\GPSTracker\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-82e87cb50d5ea8235b7b6da6b2fb2f7e1db39c06.jar" />
+    </item>
+
+</items>

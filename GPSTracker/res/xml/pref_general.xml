@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="sending_checkbox"
+        android:title="Enable Sending Data"
+        android:summary="@string/pref_description_social_recommendations"
+        android:defaultValue="true" />
+
+    <CheckBoxPreference
+        android:key="writing_checkbox"
+        android:title="Enable Writing Data"
+        android:summary="@string/pref_description_social_recommendations"
+        android:defaultValue="false" />
+
+</PreferenceScreen>

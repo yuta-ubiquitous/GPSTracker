@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.ac.saga_u.gpstracker"
+    android:versionCode="1"
+    android:versionName="@string/app_version" > <!-- Android 4.0.0 API 14 -->
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="14" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".GpsMain"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.net.conn.CONECTIVITY_CHANGE" />
+            </intent-filter>
+        </activity>
+
+        <service android:name=".services.GPSService" />
+
+        <activity
+            android:name=".InfoActivity"
+            android:label="@string/title_activity_info"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Base" >
+        </activity>
+        <activity
+            android:name=".OptionsActivity"
+            android:label="@string/title_activity_options"
+            android:parentActivityName=".GpsMain" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jp.ac.saga_u.gpstracker.GpsMain" />
+        </activity>
+    </application>
+
+</manifest>
